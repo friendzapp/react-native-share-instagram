@@ -1,7 +1,7 @@
 {
-  "name": "@micabe/react-native-share-instagram",
-  "version": "1.1.0",
-  "description": "Share base64 image on Instagram app (ios and android)",
+  "name": "@nickfa1/react-native-share-instagram",
+  "version": "2.0.0",
+  "description": "Share base64 image on Instagram app (ios and android) - Fork",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,9 +9,6 @@
   "keywords": [
     "react-native"
   ],
-  "author": "Mickael Abensur <armouredorange@gmail.com>",
-  "license": "MIT",
-  "peerDependencies": {
-    "react-native": "^0.47.0"
-  }
+  "author": "nickfla1",
+  "license": "MIT"
 }
