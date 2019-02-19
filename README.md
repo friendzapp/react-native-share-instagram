@@ -3,11 +3,11 @@ Share your image with the Instagram app using `Intents` (iOS & Android)
 
 ## Getting started
 
-`$ yarn add @micabe/react-native-share-instagram`
+`$ yarn add @nickfla1/react-native-share-instagram`
 
 ## Automatic installation
 
-`$ react-native link @micabe/react-native-share-instagram`
+`$ react-native link @nickfla1/react-native-share-instagram`
 
 
 ## Usage
@@ -37,8 +37,12 @@ RNReactNativeSharingWinstagram.shareWithInstagram(this.state.fileName, this.stat
 
 ### Advanced usage
 
-* You can use the [react-native-fetch-blob](https://github.com/wkh237/react-native-fetch-blob) library to download your remote image and convert it to `.base64()`
+* You can use the [rn-fetch-blob](https://github.com/joltup/rn-fetch-blob) library to download your remote image and convert it to `.base64()`
 
-### Contribution
+### Next steps
 
-* Test library to work with windows OS
+##### Note: This is a fork from [this](https://github.com/micabe/react-native-share-instagram) repository.
+
+* Modernize the whole project both javascript and native
+* Add type checking
+* Uniform API and error handling
