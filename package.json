@@ -1,6 +1,6 @@
 {
   "name": "@nickfla1/react-native-share-instagram",
-  "version": "2.0.3",
+  "version": "2.0.5",
   "description": "Share base64 image on Instagram app (ios and android) - Fork",
   "main": "index.js",
   "scripts": {
