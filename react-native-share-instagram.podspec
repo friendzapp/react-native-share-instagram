@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "react-native-share-instagram"
-  spec.version      = "2.0.7"
+  spec.version      = "2.0.8"
   spec.summary      = "Share base64 image on Instagram app (ios and android)"
 
   # This description is used to generate tags and improve search results.
